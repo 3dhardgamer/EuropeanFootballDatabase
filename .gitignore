@@ -1,1 +1,4 @@
 *.sqlite
+.ipynb_checkpoints/*
+.*.swp
+    
